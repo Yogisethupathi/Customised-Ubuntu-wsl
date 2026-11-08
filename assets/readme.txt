@@ -1,0 +1,1 @@
+﻿Place your image files (e.g. reference.png, screenshots) in this assets folder, then link them in ubuntu.md using: ![Alt Text](assets/your-image.png)
